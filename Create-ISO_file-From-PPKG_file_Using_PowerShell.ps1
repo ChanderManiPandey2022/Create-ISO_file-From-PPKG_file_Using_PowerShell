@@ -13,7 +13,7 @@ Set-ExecutionPolicy -ExecutionPolicy Bypass
 #>
 # ==============================================User Input Section=======================================================================
 
-$inputFolder = "C:\Users\WDAGUtilityAccount\Downloads" # Enter the directory containing files to include in the ISO
+$inputFolder = "C:\Users\WDAGUtilityAccount\Downloads" # Enter the directory containing  ppkg file
 
 # =======================================================================================================================================
 
